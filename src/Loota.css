@@ -1,0 +1,19 @@
+.laatikko {
+  background-color: #4e79a7; /* Blue background */
+  color: white;
+  width: 200px; /* Set max width to 200px */
+  padding: 15px;
+  margin-bottom: 15px; /* Space between cards */
+  border-radius: 8px; /* Rounded corners */
+  text-align: center; /* Center text */
+}
+
+.laatikko h3 {
+  margin: 0; /* Remove default margin */
+  font-size: 18px; /* Set font size for name */
+}
+
+.laatikko p {
+  margin: 5px 0; /* Add space between email and phone */
+  font-size: 14px; /* Slightly smaller text for email and phone */
+}

@@ -1,0 +1,32 @@
+.App {
+  text-align: left;
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+.main-heading {
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.product {
+  margin-bottom: 20px;
+}
+
+.product-name {
+  font-size: 24px;
+  font-weight: normal; /* Makes product names not bold */
+}
+
+.product-description {
+  font-size: 16px;
+  color: grey;
+  margin-bottom: 5px;
+}
+
+.product-price {
+  font-size: 20px;
+  font-weight: bold;
+  color: black;
+}

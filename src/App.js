@@ -7,7 +7,7 @@ function App() {
     { id: 1, name: "Iida Varinowski", email: "Iida.Varinowski@edu.turku.fi", phone: "045 114 1138" },
     { id: 2, name: "Aurora Aaltonen", email: "Aurora.Aaltonen@edu.turku.fi", phone: "050 112 2634" },
     { id: 3, name: "Lauri Pajunen", email: "Lauri.Pajunen@edu.turku.fi", phone: "040 112 2721" },
-    { id: 4, name: "Crish ( ﾉ ﾟｰﾟ)ﾉ ", email: "Crish.kingdom_hearts@edu.turku.fi", phone: "040 782 2234" },
+    { id: 4, name: "Christos Arvanitis", email: "Chris.kingdom_hearts@edu.turku.fi", phone: "040 782 2234" },
   ];
 
   return (
